@@ -11,8 +11,8 @@
 4. 사용 언어 : Python
 5. 모델 : LGBM Regeressor
 
-# 참고
+# 데이터 출처
 
-데이터 출처는 아래와 같이 Dacon 홈페이지를 통해서 얻으실 수 있습니다.
+데이터는 아래 Dacon 홈페이지 링크를 통해서 얻으실 수 있습니다.
 
 https://dacon.io/competitions/official/236424/data
