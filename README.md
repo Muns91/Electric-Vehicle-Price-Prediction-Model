@@ -7,7 +7,7 @@
 
 1. Data_EDA : 데이터 분석
 2. Ev_price_pred : 데이터 전처리 & 예측 수
-3. 대회 성적 : Dacon Private 5위
+3. 대회 성적 : Dacon 최종 3위
 4. 사용 언어 : Python
 5. 모델 : LGBM Regeressor
 
